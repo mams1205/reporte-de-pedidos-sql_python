@@ -7,8 +7,7 @@ Este repositorio contiene el código necesario para **extraer datos desde una ba
 - **Python**
 - **pandas**: Para manipulación y análisis de datos.
 - **numpy**: Para operaciones numéricas y estructuración de datos.
-- **openpyxl / xlsxwriter**: Para exportar los resultados a Excel.
-- **pyodbc / sqlalchemy**: Conexión a la base de datos SQL.
+- **pyodbc**: Conexión a la base de datos SQL.
 - **SQL avanzado**: Consultas complejas para extraer datos precisos.
 
 ## 📌 Funcionalidades
